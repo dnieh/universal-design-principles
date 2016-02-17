@@ -23,6 +23,10 @@ Cheat Sheet for the book by [Lidwell, Holden, and Butler](http://www.amazon.com/
 
 [Attractiveness Bias](#attractiveness-bias)
 
+[Baby-Face Bias](#baby-face-bias)
+
+[Biophilia Affect](#biophilia-affect)
+
 ## <a name="8020">80/20 Rule</a>
 80% of x involves 20% of y
 #### Example
@@ -72,3 +76,13 @@ Vertical silhouettes of people.
 Tendecy to perceive attractive people as smarter, more moral, sociable, and competent.
 #### Example
 JFK vs Nixon.
+
+## <a name="baby-face-bias">Baby-Face Bias</a>
+Tendency to see people and things with baby faces as more naive, helpless, and honest.
+#### Example
+People almost universally adore babies. However, the same can not be said about your average adult male.
+
+## <a name="biophilia-affect">Biophilia Affect</a>
+Environments rich in nature views reduce stress and increase focus and concentration.
+#### Example
+Go camping.
