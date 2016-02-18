@@ -25,7 +25,11 @@ Cheat Sheet for the book by [Lidwell, Holden, and Butler](http://www.amazon.com/
 
 [Baby-Face Bias](#baby-face-bias)
 
-[Biophilia Affect](#biophilia-affect)
+[Biophilia Effect](#biophilia-effect)
+
+[Cathedral Effect](#cathedral-effect)
+
+[Chunking](#chunking)
 
 ## <a name="8020">80/20 Rule</a>
 80% of x involves 20% of y
@@ -82,7 +86,16 @@ Tendency to see people and things with baby faces as more naive, helpless, and h
 #### Example
 People almost universally adore babies. However, the same can not be said about your average adult male.
 
-## <a name="biophilia-affect">Biophilia Affect</a>
+## <a name="biophilia-effect">Biophilia Effect</a>
 Environments rich in nature views reduce stress and increase focus and concentration.
 #### Example
 Go camping.
+
+## <a name="cathedral-effect">Cathedral Effect</a>
+Relation between perceived height of a ceiling and cognition. High ceilings -> creativity. Low ceilings -> concrete,
+detail-oriented.
+
+## <a name="chunking">Chunking</a>
+Combining many units of info into limited units (chunks).
+#### Example
+Most websites.
