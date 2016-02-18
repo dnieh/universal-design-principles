@@ -98,4 +98,4 @@ detail-oriented.
 ## <a name="chunking">Chunking</a>
 Combining many units of info into limited units (chunks).
 #### Example
-Most websites.
+Most websites, brochures, and handouts.
