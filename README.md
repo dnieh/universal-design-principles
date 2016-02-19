@@ -31,6 +31,10 @@ Cheat Sheet for the book by [Lidwell, Holden, and Butler](http://www.amazon.com/
 
 [Chunking](#chunking)
 
+[Classical Conditioning](#classical-conditioning)
+
+[Closure](#closure)
+
 ## <a name="8020">80/20 Rule</a>
 80% of x involves 20% of y
 #### Example
@@ -99,3 +103,11 @@ detail-oriented.
 Combining many units of info into limited units (chunks).
 #### Example
 Most websites, brochures, and handouts.
+
+## <a name="classical-conditioning">Classical Conditioning</a>
+Associating a stimulus with an unconscious or emotional response.
+#### Example
+Teaching a dog to sit by using treats.
+
+## <a name="closure">Closure</a>
+Tendency to perceive a set of elements as a single, larger element.
