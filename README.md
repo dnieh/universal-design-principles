@@ -35,6 +35,10 @@ Cheat Sheet for the book by [Lidwell, Holden, and Butler](http://www.amazon.com/
 
 [Closure](#closure)
 
+[Cognitive Dissonance](#cognitive-dissonance)
+
+[Color](#color)
+
 ## <a name="8020">80/20 Rule</a>
 80% of x involves 20% of y
 #### Example
@@ -111,3 +115,13 @@ Teaching a dog to sit by using treats.
 
 ## <a name="closure">Closure</a>
 Tendency to perceive a set of elements as a single, larger element.
+
+## <a name="cognitive-dissonance">Cognitive Dissonance</a>
+Tendency to seek consistency among attitudes, thoughts, and beliefs.
+
+It's easier to have small incentives to change attitudes that large incentives. Large incentive lead to justifications,
+but attitudes remain unchanged.
+
+## <a name="color">Color</a>
+Saturated colors attract. Desaturated colors for efficiency and performance.
+
