@@ -119,8 +119,8 @@ Tendency to perceive a set of elements as a single, larger element.
 ## <a name="cognitive-dissonance">Cognitive Dissonance</a>
 Tendency to seek consistency among attitudes, thoughts, and beliefs.
 
-It's easier to have small incentives to change attitudes that large incentives. Large incentive lead to justifications,
-but attitudes remain unchanged.
+It's easier to use small incentives to change people's attitudes than trying with large incentives. Large incentives
+only create justifications while the underlying attitude remains unchanged.
 
 ## <a name="color">Color</a>
 Saturated colors attract. Desaturated colors for efficiency and performance.
